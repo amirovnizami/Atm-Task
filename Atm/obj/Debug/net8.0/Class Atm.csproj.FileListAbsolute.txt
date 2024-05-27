@@ -1,0 +1,14 @@
+C:\Users\amiro\Desktop\Solution1\Class Atm\bin\Debug\net8.0\Class Atm.exe
+C:\Users\amiro\Desktop\Solution1\Class Atm\bin\Debug\net8.0\Class Atm.deps.json
+C:\Users\amiro\Desktop\Solution1\Class Atm\bin\Debug\net8.0\Class Atm.runtimeconfig.json
+C:\Users\amiro\Desktop\Solution1\Class Atm\bin\Debug\net8.0\Class Atm.dll
+C:\Users\amiro\Desktop\Solution1\Class Atm\bin\Debug\net8.0\Class Atm.pdb
+C:\Users\amiro\Desktop\Solution1\Class Atm\obj\Debug\net8.0\Class Atm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amiro\Desktop\Solution1\Class Atm\obj\Debug\net8.0\Class Atm.AssemblyInfoInputs.cache
+C:\Users\amiro\Desktop\Solution1\Class Atm\obj\Debug\net8.0\Class Atm.AssemblyInfo.cs
+C:\Users\amiro\Desktop\Solution1\Class Atm\obj\Debug\net8.0\Class Atm.csproj.CoreCompileInputs.cache
+C:\Users\amiro\Desktop\Solution1\Class Atm\obj\Debug\net8.0\Class Atm.dll
+C:\Users\amiro\Desktop\Solution1\Class Atm\obj\Debug\net8.0\refint\Class Atm.dll
+C:\Users\amiro\Desktop\Solution1\Class Atm\obj\Debug\net8.0\Class Atm.pdb
+C:\Users\amiro\Desktop\Solution1\Class Atm\obj\Debug\net8.0\Class Atm.genruntimeconfig.cache
+C:\Users\amiro\Desktop\Solution1\Class Atm\obj\Debug\net8.0\ref\Class Atm.dll
