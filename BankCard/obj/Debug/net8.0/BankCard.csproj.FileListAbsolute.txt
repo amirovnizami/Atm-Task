@@ -1,0 +1,14 @@
+C:\Users\amiro\source\repos\Solution1\BankCard\obj\Debug\net8.0\BankCard.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amiro\source\repos\Solution1\BankCard\obj\Debug\net8.0\BankCard.AssemblyInfoInputs.cache
+C:\Users\amiro\source\repos\Solution1\BankCard\obj\Debug\net8.0\BankCard.AssemblyInfo.cs
+C:\Users\amiro\source\repos\Solution1\BankCard\obj\Debug\net8.0\BankCard.csproj.CoreCompileInputs.cache
+C:\Users\amiro\source\repos\Solution1\BankCard\bin\Debug\net8.0\BankCard.exe
+C:\Users\amiro\source\repos\Solution1\BankCard\bin\Debug\net8.0\BankCard.deps.json
+C:\Users\amiro\source\repos\Solution1\BankCard\bin\Debug\net8.0\BankCard.runtimeconfig.json
+C:\Users\amiro\source\repos\Solution1\BankCard\bin\Debug\net8.0\BankCard.dll
+C:\Users\amiro\source\repos\Solution1\BankCard\bin\Debug\net8.0\BankCard.pdb
+C:\Users\amiro\source\repos\Solution1\BankCard\obj\Debug\net8.0\BankCard.dll
+C:\Users\amiro\source\repos\Solution1\BankCard\obj\Debug\net8.0\refint\BankCard.dll
+C:\Users\amiro\source\repos\Solution1\BankCard\obj\Debug\net8.0\BankCard.pdb
+C:\Users\amiro\source\repos\Solution1\BankCard\obj\Debug\net8.0\BankCard.genruntimeconfig.cache
+C:\Users\amiro\source\repos\Solution1\BankCard\obj\Debug\net8.0\ref\BankCard.dll
