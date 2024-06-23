@@ -1,0 +1,14 @@
+C:\Users\amiro\source\repos\Solution1\AdminUser\bin\Debug\net8.0\AdminUser.exe
+C:\Users\amiro\source\repos\Solution1\AdminUser\bin\Debug\net8.0\AdminUser.deps.json
+C:\Users\amiro\source\repos\Solution1\AdminUser\bin\Debug\net8.0\AdminUser.runtimeconfig.json
+C:\Users\amiro\source\repos\Solution1\AdminUser\bin\Debug\net8.0\AdminUser.dll
+C:\Users\amiro\source\repos\Solution1\AdminUser\bin\Debug\net8.0\AdminUser.pdb
+C:\Users\amiro\source\repos\Solution1\AdminUser\obj\Debug\net8.0\AdminUser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amiro\source\repos\Solution1\AdminUser\obj\Debug\net8.0\AdminUser.AssemblyInfoInputs.cache
+C:\Users\amiro\source\repos\Solution1\AdminUser\obj\Debug\net8.0\AdminUser.AssemblyInfo.cs
+C:\Users\amiro\source\repos\Solution1\AdminUser\obj\Debug\net8.0\AdminUser.csproj.CoreCompileInputs.cache
+C:\Users\amiro\source\repos\Solution1\AdminUser\obj\Debug\net8.0\AdminUser.dll
+C:\Users\amiro\source\repos\Solution1\AdminUser\obj\Debug\net8.0\refint\AdminUser.dll
+C:\Users\amiro\source\repos\Solution1\AdminUser\obj\Debug\net8.0\AdminUser.pdb
+C:\Users\amiro\source\repos\Solution1\AdminUser\obj\Debug\net8.0\AdminUser.genruntimeconfig.cache
+C:\Users\amiro\source\repos\Solution1\AdminUser\obj\Debug\net8.0\ref\AdminUser.dll
