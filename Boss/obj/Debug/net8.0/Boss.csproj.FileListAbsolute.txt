@@ -1,0 +1,14 @@
+C:\Users\amiro\source\repos\Solution1\Boss\bin\Debug\net8.0\Boss.exe
+C:\Users\amiro\source\repos\Solution1\Boss\bin\Debug\net8.0\Boss.deps.json
+C:\Users\amiro\source\repos\Solution1\Boss\bin\Debug\net8.0\Boss.runtimeconfig.json
+C:\Users\amiro\source\repos\Solution1\Boss\bin\Debug\net8.0\Boss.dll
+C:\Users\amiro\source\repos\Solution1\Boss\bin\Debug\net8.0\Boss.pdb
+C:\Users\amiro\source\repos\Solution1\Boss\obj\Debug\net8.0\Boss.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amiro\source\repos\Solution1\Boss\obj\Debug\net8.0\Boss.AssemblyInfoInputs.cache
+C:\Users\amiro\source\repos\Solution1\Boss\obj\Debug\net8.0\Boss.AssemblyInfo.cs
+C:\Users\amiro\source\repos\Solution1\Boss\obj\Debug\net8.0\Boss.csproj.CoreCompileInputs.cache
+C:\Users\amiro\source\repos\Solution1\Boss\obj\Debug\net8.0\Boss.dll
+C:\Users\amiro\source\repos\Solution1\Boss\obj\Debug\net8.0\refint\Boss.dll
+C:\Users\amiro\source\repos\Solution1\Boss\obj\Debug\net8.0\Boss.pdb
+C:\Users\amiro\source\repos\Solution1\Boss\obj\Debug\net8.0\Boss.genruntimeconfig.cache
+C:\Users\amiro\source\repos\Solution1\Boss\obj\Debug\net8.0\ref\Boss.dll
