@@ -1,0 +1,26 @@
+[
+  {
+    "Id": 1,
+    "Model": "Priora",
+    "Marka": "Lada",
+    "Year": 2013
+  },
+  {
+    "Id": 2,
+    "Model": "2107",
+    "Marka": "Lada",
+    "Year": 2011
+  },
+  {
+    "Id": 3,
+    "Model": "2106",
+    "Marka": "LadA",
+    "Year": 1999
+  },
+  {
+    "Id": 4,
+    "Model": "BMW",
+    "Marka": "F10",
+    "Year": 2020
+  }
+]

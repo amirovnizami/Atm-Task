@@ -1,0 +1,14 @@
+C:\Users\amiro\source\repos\Solution1\JsonHomework\bin\Debug\net8.0\JsonHomework.exe
+C:\Users\amiro\source\repos\Solution1\JsonHomework\bin\Debug\net8.0\JsonHomework.deps.json
+C:\Users\amiro\source\repos\Solution1\JsonHomework\bin\Debug\net8.0\JsonHomework.runtimeconfig.json
+C:\Users\amiro\source\repos\Solution1\JsonHomework\bin\Debug\net8.0\JsonHomework.dll
+C:\Users\amiro\source\repos\Solution1\JsonHomework\bin\Debug\net8.0\JsonHomework.pdb
+C:\Users\amiro\source\repos\Solution1\JsonHomework\obj\Debug\net8.0\JsonHomework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amiro\source\repos\Solution1\JsonHomework\obj\Debug\net8.0\JsonHomework.AssemblyInfoInputs.cache
+C:\Users\amiro\source\repos\Solution1\JsonHomework\obj\Debug\net8.0\JsonHomework.AssemblyInfo.cs
+C:\Users\amiro\source\repos\Solution1\JsonHomework\obj\Debug\net8.0\JsonHomework.csproj.CoreCompileInputs.cache
+C:\Users\amiro\source\repos\Solution1\JsonHomework\obj\Debug\net8.0\JsonHomework.dll
+C:\Users\amiro\source\repos\Solution1\JsonHomework\obj\Debug\net8.0\refint\JsonHomework.dll
+C:\Users\amiro\source\repos\Solution1\JsonHomework\obj\Debug\net8.0\JsonHomework.pdb
+C:\Users\amiro\source\repos\Solution1\JsonHomework\obj\Debug\net8.0\JsonHomework.genruntimeconfig.cache
+C:\Users\amiro\source\repos\Solution1\JsonHomework\obj\Debug\net8.0\ref\JsonHomework.dll
