@@ -1,0 +1,132 @@
+[
+  {
+    "Name": "Elvin",
+    "Surname": "Eliyev",
+    "tecrube": 10,
+    "Saatlar": {
+      "1": false,
+      "2": false,
+      "3": false
+    }
+  },
+  {
+    "Name": "Elnur",
+    "Surname": "Mustafayev",
+    "tecrube": 10,
+    "Saatlar": {
+      "1": false,
+      "2": false,
+      "3": false
+    }
+  },
+  {
+    "Name": "Fuad",
+    "Surname": "Qfarov",
+    "tecrube": 10,
+    "Saatlar": {
+      "1": false,
+      "2": false,
+      "3": false
+    }
+  },
+  {
+    "Name": "Vusal",
+    "Surname": "Qiyasov",
+    "tecrube": 10,
+    "Saatlar": {
+      "1": false,
+      "2": false,
+      "3": false
+    }
+  },
+  {
+    "Name": "Gulcin",
+    "Surname": "Eliyeva",
+    "tecrube": 10,
+    "Saatlar": {
+      "1": false,
+      "2": false,
+      "3": false
+    }
+  },
+  {
+    "Name": "Sebine",
+    "Surname": "Memmedova",
+    "tecrube": 10,
+    "Saatlar": {
+      "1": false,
+      "2": false,
+      "3": false
+    }
+  },
+  {
+    "Name": "Mahmud",
+    "Surname": "Memmedov",
+    "tecrube": 10,
+    "Saatlar": {
+      "1": false,
+      "2": false,
+      "3": false
+    }
+  },
+  {
+    "Name": "Samir",
+    "Surname": "Samirli",
+    "tecrube": 10,
+    "Saatlar": {
+      "1": false,
+      "2": true,
+      "3": false
+    }
+  },
+  {
+    "Name": "Vusal",
+    "Surname": "Agayev",
+    "tecrube": 10,
+    "Saatlar": {
+      "1": false,
+      "2": false,
+      "3": false
+    }
+  },
+  {
+    "Name": "Eli ",
+    "Surname": "Qurbanov",
+    "tecrube": 10,
+    "Saatlar": {
+      "1": false,
+      "2": false,
+      "3": false
+    }
+  },
+  {
+    "Name": "Elcin",
+    "Surname": "Emnullayev",
+    "tecrube": 10,
+    "Saatlar": {
+      "1": false,
+      "2": false,
+      "3": false
+    }
+  },
+  {
+    "Name": "Aysel",
+    "Surname": "Rehimova",
+    "tecrube": 10,
+    "Saatlar": {
+      "1": false,
+      "2": false,
+      "3": false
+    }
+  },
+  {
+    "Name": "Rena",
+    "Surname": "Qurbanova",
+    "tecrube": 10,
+    "Saatlar": {
+      "1": false,
+      "2": false,
+      "3": false
+    }
+  }
+]
