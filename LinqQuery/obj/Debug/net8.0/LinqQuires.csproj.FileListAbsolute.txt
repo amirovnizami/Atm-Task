@@ -1,0 +1,14 @@
+C:\Users\amiro\source\repos\Solution1\ConsoleApp2\obj\Debug\net8.0\LinqQuires.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amiro\source\repos\Solution1\ConsoleApp2\obj\Debug\net8.0\LinqQuires.AssemblyInfoInputs.cache
+C:\Users\amiro\source\repos\Solution1\ConsoleApp2\obj\Debug\net8.0\LinqQuires.AssemblyInfo.cs
+C:\Users\amiro\source\repos\Solution1\ConsoleApp2\obj\Debug\net8.0\LinqQuires.csproj.CoreCompileInputs.cache
+C:\Users\amiro\source\repos\Solution1\ConsoleApp2\bin\Debug\net8.0\LinqQuires.exe
+C:\Users\amiro\source\repos\Solution1\ConsoleApp2\bin\Debug\net8.0\LinqQuires.deps.json
+C:\Users\amiro\source\repos\Solution1\ConsoleApp2\bin\Debug\net8.0\LinqQuires.runtimeconfig.json
+C:\Users\amiro\source\repos\Solution1\ConsoleApp2\bin\Debug\net8.0\LinqQuires.dll
+C:\Users\amiro\source\repos\Solution1\ConsoleApp2\bin\Debug\net8.0\LinqQuires.pdb
+C:\Users\amiro\source\repos\Solution1\ConsoleApp2\obj\Debug\net8.0\LinqQuires.dll
+C:\Users\amiro\source\repos\Solution1\ConsoleApp2\obj\Debug\net8.0\refint\LinqQuires.dll
+C:\Users\amiro\source\repos\Solution1\ConsoleApp2\obj\Debug\net8.0\LinqQuires.pdb
+C:\Users\amiro\source\repos\Solution1\ConsoleApp2\obj\Debug\net8.0\LinqQuires.genruntimeconfig.cache
+C:\Users\amiro\source\repos\Solution1\ConsoleApp2\obj\Debug\net8.0\ref\LinqQuires.dll
